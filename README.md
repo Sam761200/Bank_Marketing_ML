@@ -37,7 +37,7 @@ Les meilleurs hyperparamètres trouvés sont :
 
 ## Instructions
 
-1. Clonez le repository : `git clone https://github.com/votre_nom_utilisateur/votre_repository.git`
+1. Clonez le repository : `git clone https://github.com/vsam761200/Bank_Marketing_ML.git`
 2. Ouvrez le notebook `bank_marketing.ipynb` dans Jupyter Notebook ou Google Colab.
 3. Exécutez les cellules du notebook dans l'ordre pour reproduire les résultats.
 
